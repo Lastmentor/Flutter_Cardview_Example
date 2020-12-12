@@ -45,7 +45,7 @@ class MyHomePage extends StatelessWidget {
                           image: new DecorationImage(image: AssetImage('assets/user1.jpg'))
                       ),
                     ),
-                    new Text("Emma Olivia",style: new TextStyle(fontWeight: FontWeight.bold)),
+                    new Text("Emma Oliviaa",style: new TextStyle(fontWeight: FontWeight.bold)),
                     new Expanded(
                       child: new Row(
                         mainAxisAlignment: MainAxisAlignment.end,
